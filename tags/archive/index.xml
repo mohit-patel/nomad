@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>archive on Mohit Khodidas Nomad</title>
+    <title>archive on Nomad</title>
     <link>https://mohit-patel.github.io/nomad/tags/archive/</link>
-    <description>Recent content in archive on Mohit Khodidas Nomad</description>
+    <description>Recent content in archive on Nomad</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mohit-patel.github.io/nomad/tags/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Girnar Mountain Slopes</title>
+      <link>https://mohit-patel.github.io/nomad/home/wildlife/girnar6/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohit-patel.github.io/nomad/home/wildlife/girnar6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moon</title>
+      <link>https://mohit-patel.github.io/nomad/home/astro/vega/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohit-patel.github.io/nomad/home/astro/vega/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Girnar Grasslands</title>
       <link>https://mohit-patel.github.io/nomad/home/wildlife/girnar10/</link>
@@ -21,15 +39,6 @@
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mohit-patel.github.io/nomad/home/wildlife/girnar1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Girnar Mountain Slopes</title>
-      <link>https://mohit-patel.github.io/nomad/home/wildlife/girnar6/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohit-patel.github.io/nomad/home/wildlife/girnar6/</guid>
       <description></description>
     </item>
     
