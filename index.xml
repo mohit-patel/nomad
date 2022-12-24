@@ -183,8 +183,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mohit-patel.github.io/nomad/about/</guid>
-      <description>Email me at mohitpatel@proton.me
-I&amp;rsquo;m on Twitter here</description>
+      <description>Me Email me at mohitpatel@proton.me
+Find me on Twitter
+My writings My writings can be found here.
+This site If you are curious about the tech side of this site, then here goes:
+My first writing happens in Emacs Orgmode. It is my favourite text editor. Once mt draft is ready, I then move it VSCode. From there I build a Hugo package My site is hosted on a Github Pages repo.</description>
     </item>
     
   </channel>
