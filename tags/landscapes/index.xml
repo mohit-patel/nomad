@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>landscapes on Nomad</title>
+    <link>https://mohit-patel.github.io/nomad/tags/landscapes/</link>
+    <description>Recent content in landscapes on Nomad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mohit-patel.github.io/nomad/tags/landscapes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dawn in Kruger</title>
+      <link>https://mohit-patel.github.io/nomad/home/landscapes/sal-2/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohit-patel.github.io/nomad/home/landscapes/sal-2/</guid>
+      <description>Kruger National Park
+South Africa
+2022</description>
+    </item>
+    
+    <item>
+      <title>Dusk in Kruger</title>
+      <link>https://mohit-patel.github.io/nomad/home/landscapes/sal-1/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohit-patel.github.io/nomad/home/landscapes/sal-1/</guid>
+      <description>Kruger National Park
+South Africa
+2022</description>
+    </item>
+    
+  </channel>
+</rss>
